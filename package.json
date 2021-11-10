@@ -1,0 +1,16 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
